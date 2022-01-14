@@ -26,3 +26,20 @@ Here are some ideas to get you started:
 	<img alt="postman" width="73px" src="https://user-images.githubusercontent.com/89486551/143319803-99550e9f-bdde-4354-b38a-a3aa8ffc9a77.png" />
 	<img alt="pycharm" width="73px" src="https://user-images.githubusercontent.com/89486551/143319814-3645ca4a-c3cc-4958-aa5b-ff27b47d704c.png" />
 </div>
+name: Labels
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.topics.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ''
+  plugin_topics: 'yes'
+  plugin_topics_limit: 12
+name: Icons
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.topics.icons.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ''
+  plugin_topics: 'yes'
+  plugin_topics_limit: 0
+  plugin_topics_mode: icons
