@@ -28,50 +28,6 @@ Here are some ideas to get you started:
   </td>
 </table>
 
-This uses puppeteer to navigate through your starred topics page.
-
-#### ➡️ Available options
-
-<!--options-->
-| Option | Type *(format)* **[default]** *{allowed values}* | Description |
-| ------ | -------------------------------- | ----------- |
-| `plugin_topics` | `boolean` **[no]** | Display starred topics |
-| `plugin_topics_mode` | `string` **[starred]** *{"starred", "icons", "mastered"}* | Plugin mode |
-| `plugin_topics_sort` | `string` **[stars]** *{"stars", "activity", "starred", "random"}* | Sorting method of starred topics |
-| `plugin_topics_limit` | `number` **[15]** *{0 ≤ 𝑥 ≤ 20}* | Maximum number of topics to display |
-
-
-<!--/options-->
-
-*[→ Full specification](metadata.yml)*
-
-#### ℹ️ Examples workflows
-
-<!--examples-->
-```yaml
-name: Labels
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.topics.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ''
-  plugin_topics: 'yes'
-  plugin_topics_limit: 12
-
-```
-```yaml
-name: Icons
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.topics.icons.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ''
-  plugin_topics: 'yes'
-  plugin_topics_limit: 0
-  plugin_topics_mode: icons
-
-```
-<!--/examples-->
 
 <div align="center">
 	<img alt="devtools" width="73px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
