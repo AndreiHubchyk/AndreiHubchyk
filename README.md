@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
 <!--
 **AndreiHubchyk/AndreiHubchyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
