@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <table>
   <td align="center">
     <details open><summary>With icons</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.topics.icons.svg">
+      <img src="https://https://github.com/AndreiHubchyk/AndreiHubchyk/blob/main/file.svg">
     </details>
     <details open><summary>With labels</summary>
       <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.topics.svg">
