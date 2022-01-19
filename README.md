@@ -1,5 +1,5 @@
 ### Hi everyone! Once you've visited my GitHub page, you can look at my repositories where you can find my work that I've done. 
-Link on my HomeWork [Git Hub] (https://github.com/AndreiHubchyk/HM_GitHub_Branch)👋
+Link on my HomeWork [Git Hub] (https://github.com/AndreiHubchyk/HM_GitHub_Branch) 👋
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/AndreiHubchyk/AndreiHubchyk/blob/main/github-metrics.svg)
 <!--
