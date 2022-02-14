@@ -1,4 +1,5 @@
 ### <em> Hi everyone! Once you've visited my GitHub page, you can look at my repositories where you can find my work that I've done. 
+<strong>Link for my profile in LinkedInk<strong> <a style="color: #0473A1" href="https://www.linkedin.com/in/andrei-hubchyk/">Profile on LinkedIn</a>
 <strong>Link on my HomeWork<strong> <a style="color: #0473A1" href="https://github.com/AndreiHubchyk/HM_GitHub_Branch">Git Hub</a> 👋 <em>
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/AndreiHubchyk/AndreiHubchyk/blob/main/github-metrics.svg)
