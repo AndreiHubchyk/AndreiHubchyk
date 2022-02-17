@@ -4,6 +4,7 @@
 <br>
 
 <div align="center">
+font-size: 24pt
 <em> |<strong> Success doesn't come to you, you go to it!</storng> </em> 
 	</div>
 	
